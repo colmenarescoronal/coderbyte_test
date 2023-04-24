@@ -24,5 +24,7 @@ Search for any help or documentation you might need for this problem. For exampl
 
 ## Run
 You must have Node.js installed on your computer preferably recent versions 14,16,18.
+
 1.- In the index.js file place the input string in the SearchingChallenge function's parameter 
+
 2.- Execute the file from the console with the command node index.js
