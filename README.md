@@ -18,10 +18,7 @@ Output: cbebebe
 
 Input: "2aabbcbbbadef"
 Output: bbcbbb
-
-Browse Resources
-Search for any help or documentation you might need for this problem. For example: array indexing, Ruby hash 
-
+ 
 ## Run
 You must have Node.js installed on your computer preferably recent versions 14,16,18.
 
