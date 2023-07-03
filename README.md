@@ -20,8 +20,8 @@ Input: "2aabbcbbbadef"
 Output: bbcbbb
  
 ### Run script
-You must have Node.js installed on your computer preferably recent versions 14,16,18.
+You must have Node.js installed on your computer preferably recent versions such as 14,16 or 18.
 
 1.- In the index.js file place the input string in the SearchingChallenge function's parameter 
 
-2.- Execute the file from the console with the command node index.js
+2.- Execute the file from the console with the command $ node index.js
