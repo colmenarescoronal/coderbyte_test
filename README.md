@@ -19,7 +19,7 @@ Output: cbebebe
 Input: "2aabbcbbbadef"
 Output: bbcbbb
  
-## Run
+### Run script
 You must have Node.js installed on your computer preferably recent versions 14,16,18.
 
 1.- In the index.js file place the input string in the SearchingChallenge function's parameter 
