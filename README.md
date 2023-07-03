@@ -1,5 +1,5 @@
-# coderbyte_test
-This is a technical test performed on the coderbyte platform.
+# Searching challenge
+This is a technical test performed on the coderbyte platform for the node js developer position.
 
 ## Challenge description
 Searching Challenge
@@ -11,7 +11,7 @@ will be the integer k. For example: if str is "2aabbacbaa" there are several sub
  If there are multiple longest substrings, then return the first substring encountered with the longest length. k will range from 1 to 6.
 
 
-Examples
+### Examples
 
 Input: "3aabacbebebe"
 Output: cbebebe
